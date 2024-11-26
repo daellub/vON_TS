@@ -1,0 +1,19 @@
+{
+  "name": "von",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@pixiv/three-vrm": "^3.1.6",
+    "@types/three": "^0.170.0",
+    "three": "^0.170.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.0"
+  }
+}
